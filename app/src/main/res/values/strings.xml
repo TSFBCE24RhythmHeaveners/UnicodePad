@@ -152,6 +152,7 @@
 	<string name="script_2E00">2E00 Supplemental Punctuation</string>
 	<string name="script_2E80">2E80 CJK Radicals Supplement</string>
 	<string name="script_2F00">2F00 Kangxi Radicals</string>
+	<string name="script_2FE0">2FE0 Unused Area
 	<string name="script_2FF0">2FF0 Ideographic Description Characters</string>
 	<string name="script_3000">3000 CJK Symbols and Punctuation</string>
 	<string name="script_3040">3040 Hiragana</string>
